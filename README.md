@@ -1,4 +1,13 @@
-### Hi there 👋
+
+<a href=https://github.com/danistenia><img src="https://github.com/danistenia/danistenia/blob/main/Personaje-Dani-600-x-600.jpg" align="left" width="600" height="600"></a>
+
+### Hola👋, Soy Daniel
+
+Soy Data Scientist en Banco Bice y actualmente curso el Magister de Inteligencia Artificial de la PUC.
+Apasionado por los desafíos, enseñar y buscar soluciones!
+
+ 🌱 Calistenia, 🍙 Anime y 🎮 Age of Empires. 
+
 
 <!--
 **danistenia/danistenia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
