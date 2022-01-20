@@ -3,7 +3,7 @@
 
 ### Hola👋, Soy Daniel
 
-Soy Data Scientist en Banco Bice y actualmente curso el Magister de Inteligencia Artificial de la PUC.
+Data Scientist en Banco Bice y actualmente curso el Magister de Inteligencia Artificial de la PUC.
 Apasionado por los desafíos, enseñar y buscar soluciones!
 
  🌱 Calistenia, 🍙 Anime y 🎮 Age of Empires. 
